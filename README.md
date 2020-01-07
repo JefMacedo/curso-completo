@@ -1,1 +1,1 @@
-Sistema do curso 'Construa Sites com PHP, HTML, CSS e JavaScript'
+Sistemas desenvolvidos com o curso 'Construa Sites com PHP, HTML, CSS e JavaScript'.
